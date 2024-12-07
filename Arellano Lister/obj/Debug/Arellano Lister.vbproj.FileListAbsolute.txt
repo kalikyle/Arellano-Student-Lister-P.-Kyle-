@@ -1,0 +1,19 @@
+C:\Users\Garage88fort\source\repos\Arellano Lister\Arellano Lister\bin\Debug\Arellano Lister.exe.config
+C:\Users\Garage88fort\source\repos\Arellano Lister\Arellano Lister\bin\Debug\Arellano Lister.exe
+C:\Users\Garage88fort\source\repos\Arellano Lister\Arellano Lister\bin\Debug\Arellano Lister.pdb
+C:\Users\Garage88fort\source\repos\Arellano Lister\Arellano Lister\bin\Debug\Arellano Lister.xml
+C:\Users\Garage88fort\source\repos\Arellano Lister\Arellano Lister\bin\Debug\MySql.Data.dll
+C:\Users\Garage88fort\source\repos\Arellano Lister\Arellano Lister\bin\Debug\Google.Protobuf.dll
+C:\Users\Garage88fort\source\repos\Arellano Lister\Arellano Lister\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Garage88fort\source\repos\Arellano Lister\Arellano Lister\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\Garage88fort\source\repos\Arellano Lister\Arellano Lister\bin\Debug\Renci.SshNet.dll
+C:\Users\Garage88fort\source\repos\Arellano Lister\Arellano Lister\bin\Debug\MySql.Data.xml
+C:\Users\Garage88fort\source\repos\Arellano Lister\Arellano Lister\obj\Debug\Arellano Lister.vbprojAssemblyReference.cache
+C:\Users\Garage88fort\source\repos\Arellano Lister\Arellano Lister\obj\Debug\Arellano_Lister.Form1.resources
+C:\Users\Garage88fort\source\repos\Arellano Lister\Arellano Lister\obj\Debug\Arellano_Lister.Resources.resources
+C:\Users\Garage88fort\source\repos\Arellano Lister\Arellano Lister\obj\Debug\Arellano Lister.vbproj.GenerateResource.cache
+C:\Users\Garage88fort\source\repos\Arellano Lister\Arellano Lister\obj\Debug\Arellano Lister.vbproj.CopyComplete
+C:\Users\Garage88fort\source\repos\Arellano Lister\Arellano Lister\obj\Debug\Arellano Lister.exe
+C:\Users\Garage88fort\source\repos\Arellano Lister\Arellano Lister\obj\Debug\Arellano Lister.xml
+C:\Users\Garage88fort\source\repos\Arellano Lister\Arellano Lister\obj\Debug\Arellano Lister.pdb
+C:\Users\Garage88fort\source\repos\Arellano Lister\Arellano Lister\bin\Debug\students4.accdb
